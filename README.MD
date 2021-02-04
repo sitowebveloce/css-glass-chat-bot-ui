@@ -22,7 +22,7 @@ open a brower at this link
 
 
 ### Youtube video guide
-[Youtube video link]()
+[Youtube video link](https://youtu.be/V5eUrVMD7fg)
 
 ### License
 [MIT](https://choosealicense.com/licenses/mit/)
